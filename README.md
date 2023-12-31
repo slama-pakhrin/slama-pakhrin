@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome
 
 <!--
 **slama-pakhrin/slama-pakhrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Arii. I love to play soccerr which now is replaced by coding. I like to learn and I am a hybrid developer as I study on my own more than from my uni ;)
-I am from Nepal but I am currently pursuing my studies in Toronto.
+Hi, my name is Arii and I am a developing programmer. 
+I am originally from Nepal but currently pursuing my studies in Toronto. I study on my own more than from my uni ;) and I love to play soccerr which now is replaced by coding. 
 
-### Familiar with
 
-I liked front end since the very beginning and I tried studying it deeply from late 2023. However the tecnologies I am familiar with are
+### Good with
+
 - HTML
 - CSS
 - Javascript
