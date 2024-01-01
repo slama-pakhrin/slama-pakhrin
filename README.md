@@ -26,7 +26,7 @@ I study on my own more than from my uni ;) and I love to play football which is 
 - Python
   
 I am looking forward to get good grasp on all of them within the first quarter of the year 2024.
-I am currently working on my portfolio and some bunch of other projects.
+* Currently working on my portfolio and Web App projects.
 
 ### Good with ✨
 
