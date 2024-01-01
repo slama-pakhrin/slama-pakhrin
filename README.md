@@ -14,21 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Arii and I am a developing programmer. 
-I am originally from Nepal but currently pursuing my studies in Toronto. I study on my own more than from my uni ;) and I love to play football which now is replaced by coding. 
+Hi, my name is Arii and I am a software developer. 
+I study on my own more than from my uni ;) and I love to play football which is now getting replaced by coding. 
 
-### WannaBe ⚡
-I am learning React currently trying to get into the front end development. However, I am starting Swift with Objective C to build mobile Apps. 
-I am looking forward to get good grasp on both of the developments within the first quarter of the year 2024.
-I am currently working on my portfolio and some bunch of other projects, mostly web apps for now.
+### Pursuing ⚡
+
+- React
+- Next
+- SwiftUI
+- Objective C
+- Python
+  
+I am looking forward to get good grasp on all of them within the first quarter of the year 2024.
+I am currently working on my portfolio and some bunch of other projects.
 
 ### Good with ✨
 
-- HTML
-- CSS
-- Tailwind
+- HTML/CSS
+- Tailwind/DaisyUI
 - Javascript
-- node
+- Node
 - Express
 - MongoDB
 - Postresql
