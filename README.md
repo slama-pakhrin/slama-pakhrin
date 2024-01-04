@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Arii and I am a software developer. 
-I study on my own more than from my uni ;) and I love to play football which is now getting replaced by coding. 
+Hi, my name is Arii and I am an aspiring software developer. I am here because I loved the thought of turning ideas into an app, sounded fun though.
+I love to play football which is now getting replaced by coding. I am well invested into other niches as well.
 
-### Pursuing ⚡
+### Learning ⚡
 
 - React
 - Next
