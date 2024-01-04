@@ -38,4 +38,5 @@ I am looking forward to get good grasp on all of them within the first quarter o
 - MongoDB
 - Postresql
 - C++
+- C
 
