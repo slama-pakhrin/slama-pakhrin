@@ -21,7 +21,7 @@ I love to play football which is now getting replaced by coding. I am well inves
 
 - React
 - Next
-- SwiftUI
+- Swift
 - Objective C
 - Python
   
