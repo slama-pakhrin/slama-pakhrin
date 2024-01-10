@@ -31,13 +31,13 @@ I am looking forward to get good grasp on all of them within the first quarter o
 
 ### Good with ✨
 
-- HTML/CSS
-- Tailwind/DaisyUI
 - Javascript
 - Node
 - Express
 - MongoDB
-- Postresql
+- PostreSQL
+- Tailwind
+- HTML/CSS
 - C++
 - C
 
