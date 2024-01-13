@@ -40,4 +40,3 @@ I am looking forward to get good grasp on all of them within the first quarter o
 - HTML/CSS
 - C++
 - C
-
