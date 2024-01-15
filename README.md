@@ -7,7 +7,7 @@ Hi, I'm Arii, a passionate and aspiring software developer just because I liked 
 ### Connect with me 
 
 
-
+[![website](./img/twitter-light.svg)](https://twitter.com/arii_theG#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/arii_theG#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/slama-pakhrin#gh-light-mode-only)
