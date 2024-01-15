@@ -40,3 +40,6 @@ I am looking forward to get good grasp on all of them within the first quarter o
 - HTML/CSS
 - C++
 - C
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)](https://javascript.com)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://python.org)
