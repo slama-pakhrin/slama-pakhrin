@@ -4,6 +4,18 @@ Hi, I'm Arii, a passionate and aspiring software developer just because I liked 
 
 # 
 
+### Connect with me 
+
+
+
+[![website](./img/twitter-dark.svg)](https://twitter.com/arii_theG#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/slama-pakhrin#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/slama-pakhrin#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/arii.tfw#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/arii.tfwr#gh-dark-mode-only)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
