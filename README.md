@@ -2,11 +2,6 @@
 
 Hi, I'm Arii, a passionate and aspiring software developer just because I liked the thought of turning ideas into an functional application. Taking about ideas, I come up with lot of them so, idk if its just me. I am looking forward to work as a front end software developer and recently, I am trying to get my foot on IOS development as well. My primary focus, however, remains on the web development where I consistently put myself in learning the technologies that might help me in my journey.
 
-# 
-
-### Connect with me 
-
-
 [![website](./img/twitter-light.svg)](https://twitter.com/arii_theG#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/arii_theG#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -18,7 +13,7 @@ Hi, I'm Arii, a passionate and aspiring software developer just because I liked 
 
 #
 
-### 🧰 Languages and Tools
+### Languages and Tools:
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -38,7 +33,7 @@ Hi, I'm Arii, a passionate and aspiring software developer just because I liked 
 
 # 
 
-### Actively Learning ⚡
+### Actively Learning:
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
