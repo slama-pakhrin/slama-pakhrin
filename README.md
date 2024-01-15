@@ -20,7 +20,7 @@ I love to play football which is now getting replaced by coding. Also, I am well
 ### Learning ⚡
 
 - React
-- NextJS
+- Next
 - Swift
 - Objective C
 - Python
