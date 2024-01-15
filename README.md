@@ -14,7 +14,7 @@ Hi, I'm Arii, a passionate and aspiring software developer just because I liked 
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/slama-pakhrin#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/arii.tfw#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/arii.tfwr#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/arii.tfr#gh-dark-mode-only)
 
 ### 🧰 Languages and Tools
 
