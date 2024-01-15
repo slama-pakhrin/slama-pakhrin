@@ -1,7 +1,6 @@
-## Namaste
+# Namaste
 
-Hi, my name is Arii and I am an aspiring software developer. I am writing code because I loved the thought of turning ideas into an app, sounded fun though.
-I love to play football which is now getting replaced by coding. Also, I am well invested into other niches.
+Hi, I'm Arii, a passionate and aspiring software developer just because I liked the thought of turning ideas into an functional application. Taking about ideas, I come up with lot of them so, idk if its just me. I am looking forward to work as a front end software developer and recently, I am trying to get my foot on IOS development as well. My primary focus, however, remains on the web development where I consistently put myself in learning the technologies that might help me in my journey.
 
 # 
 
@@ -32,8 +31,8 @@ I love to play football which is now getting replaced by coding. Also, I am well
 <img align="left" alt="swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="objC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" />
 <img align="left" alt="nextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+</br>
 
-#
 
 **`Currently working on my portfolio and Web App projects`**
 
