@@ -33,6 +33,6 @@ Hi, I'm Arii, a passionate and aspiring software developer just because I liked 
 <img align="left" alt="nextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </br>
 
-<br>
+</br>
 **`Currently working on my portfolio and Web App projects`**
 
