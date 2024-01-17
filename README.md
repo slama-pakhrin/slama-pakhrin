@@ -1,6 +1,6 @@
 # Namaste
 
-Hi, I'm Arii, a passionate and aspiring software developer just because I liked the thought of turning ideas into an functional application. Taking about ideas, I come up with lot of them so, idk if its just me. I am looking forward to work as a front end software developer and recently, I am trying to get my foot on IOS development as well. My primary focus, however, remains on the web development where I consistently put myself in learning the technologies that might help me in my journey.
+Hi, I'm Arii, a passionate and aspiring software developer. I am heavily interseted in the computer world because I liked the thought of turning ideas into an functional application. Taking about ideas, I come up with lot of them so, idk if its just me. I am looking forward to work as a front end software developer and recently, I am trying to get my foot on IOS development as well. My primary focus, however, remains on the web development where I consistently put myself in learning the technologies that might help me in my journey.
 
 [![website](./img/twitter-light.svg)](https://twitter.com/arii_theG#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/arii_theG#gh-dark-mode-only)
