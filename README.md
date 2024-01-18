@@ -43,5 +43,5 @@ Hi, I'm Arii, a passionate and aspiring software developer. I am heavily interes
 </br>
 
 #
-**`Currently working on my portfolio and Web App projects`**
+**`Currently working on my portfolio`**
 
