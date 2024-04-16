@@ -1,6 +1,6 @@
 # Namaste
 
-Hi, I'm Arii, a passionate and aspiring software developer dedicated to crafting innovative solutions and learning new technologies. My expertise lies in web development but I'm also actively pursuing iOS development to broaden my skill set. I am actively seeking opportunities to contribute my skills to projects that challenge and inspire me.
+Hi, I'm Arii, a passionate and aspiring software developer dedicated to crafting innovative solutions and learning new technologies. My expertise lies in web but I'm actively pursuing iOS development to broaden my skill set. I am actively seeking opportunities to contribute my skills to projects that challenge and inspire me.
 
 [![website](./img/twitter-light.svg)](https://twitter.com/arii_theG#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/arii_theG#gh-dark-mode-only)
@@ -18,6 +18,7 @@ Hi, I'm Arii, a passionate and aspiring software developer dedicated to crafting
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="node" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="./img/expressJS.png" /><img align="left" alt="mongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />          
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -33,7 +34,6 @@ Hi, I'm Arii, a passionate and aspiring software developer dedicated to crafting
 
 ### Actively Learning:
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="nextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
@@ -42,5 +42,5 @@ Hi, I'm Arii, a passionate and aspiring software developer dedicated to crafting
 </br>
 
 #
-**`Currently working on my portfolio`**
+**`Currently working on full stack projects`**
 
